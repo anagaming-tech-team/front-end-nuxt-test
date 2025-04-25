@@ -84,9 +84,9 @@ Desenvolver um front-end em Vue.js que permita:
 
 - Cada indicação vale 100 pts
 - Missões diárias de indicação:
-  1. 1ª indicação → +500 pts
-  2. 3 indicações → +1500 pts + bônus de 500 pts
-  3. 10 indicações → +5000 pts + bônus de 1000 pts
+  1. 1ª indicação → +100 pts + bônus de 100 pts
+  2. 3 indicações → +100 pts + bônus de 200 pts
+  3. 5 indicações → +100 pts + bônus de 400 pts
 - No perfil e na página de indicações, sempre exiba seu progresso em relação à missão do dia.
 
 ### 5. Entrega e Avaliação
